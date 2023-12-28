@@ -25,7 +25,7 @@ window.addEventListener("load", function () {
       this.collisions = [];
       this.floatingMessage = [];
       this.enemyTimer = 0;
-      this.enemyInterval = 1000;
+      this.enemyInterval = 300;
       this.debug = false;
       this.score = 0;
       this.gameOver = false;
