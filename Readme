@@ -1,0 +1,22 @@
+# Endless Runner Game
+
+This is an endless runner game developed in pure JavaScript where the player controls the character through a never-ending level, dodging obstacles, and performing special moves.
+
+## How to Play
+
+### Controls:
+- **Arrow keys:** Move character (Up for jump, Left/Right for movement).
+- **Ctrl key:** Perform special moves.
+- **Down key:** Perform a massive blast landing while in the air.
+
+### Objective:
+- Dodge obstacles and stay alive as long as possible.
+- Collect power-ups for special abilities.
+- Use special moves strategically to overcome challenges.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/endless-runner-game.git
